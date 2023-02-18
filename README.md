@@ -26,7 +26,7 @@
                       OPTING OUT
         if you want to opt not to disclose any information to us, 
          we automatically do so the moment you stop using our service. 
-          you will not be able to use pretend bot afterwards too. 
+          you will not be able to use vilan bot afterwards too. 
            use the nodata command in any server if you don't want the 
             bot to track your data.
      ---------------------------------------------------
